@@ -17,5 +17,5 @@
 - Install "selenium" python module
 
 ### Windows
-- Install geckodriver and add it's binary directory to PATH it's not added.
+- Install geckodriver and add it's binary directory to PATH if not added.
 - Install "selenium" python module
